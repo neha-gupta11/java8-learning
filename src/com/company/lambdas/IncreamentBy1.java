@@ -1,4 +1,4 @@
-package com.company;
+package com.company.lambdas;
 
 
 public interface IncreamentBy1 {

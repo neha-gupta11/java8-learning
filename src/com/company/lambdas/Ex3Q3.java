@@ -1,4 +1,4 @@
-package com.company;
+package com.company.lambdas;
 
 
 public interface Ex3Q3 extends Ex3Q1{
