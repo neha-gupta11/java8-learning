@@ -1,4 +1,4 @@
-package com.company;
+package com.company.lambdas;
 
 
 public class InterfaceUsages implements Ex3Q1,Ex3Q3{
